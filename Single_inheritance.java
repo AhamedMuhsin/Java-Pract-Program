@@ -1,3 +1,4 @@
+//2_a Write a program to implement the concepts of Inheritance and Method overriding 
 class Animal{
     public void spices(){
         System.out.println("I am Domestic Animal");

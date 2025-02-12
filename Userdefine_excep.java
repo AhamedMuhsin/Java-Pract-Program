@@ -1,3 +1,4 @@
+//3_b Write a program to define user defined exceptions and raise them as per the requirements  
 class MyException extends Exception{
     MyException(String msg){
         super(msg);

@@ -1,3 +1,4 @@
+//1_c Write a program to create a class and implement the concepts of Static methods
 import java.util.Scanner;
 
 public class Static_methods {

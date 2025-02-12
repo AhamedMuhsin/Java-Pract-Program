@@ -1,3 +1,4 @@
+//2_b Write a program to implement the concepts of Abstract classes and methods  
 abstract class Day{
     abstract void greet();
     void sayhello(){

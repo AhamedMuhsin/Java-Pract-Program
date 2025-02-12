@@ -1,3 +1,4 @@
+//2_a Write a program to implement the concepts of Inheritance and Method overriding 
 class A{
     int a;
     A(int x){

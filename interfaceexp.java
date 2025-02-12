@@ -1,3 +1,4 @@
+//2_c Write a program to implement the concept of interfaces  
 interface Area{
     float area = 0;
     float compute(int a,int b);
